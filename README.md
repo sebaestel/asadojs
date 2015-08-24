@@ -18,6 +18,9 @@ A pasos de Metro Simón Bolivar
 - hvergara
 - Estel
 
+### Vegans? (People that took the wrong path in life)
+- (Add your name here!)
+
 ## To-do
 
 + Lista de Compras
