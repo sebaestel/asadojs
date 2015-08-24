@@ -17,8 +17,8 @@ A pasos de Metro Simón Bolivar
 - halles
 - hvergara
 - Estel
-
 - Javier
+- kyuumeitai
 
 ### Vegans? (People that took the wrong path in life)
 - Erika
