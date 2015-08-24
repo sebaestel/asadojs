@@ -17,11 +17,11 @@ A pasos de Metro Simón Bolivar
 - halles
 - hvergara
 - Estel
-- Erika
+
 - Javier
 
 ### Vegans? (People that took the wrong path in life)
-- (Add your name here!)
+- Erika
 
 ## To-do
 
