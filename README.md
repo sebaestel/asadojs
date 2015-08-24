@@ -16,6 +16,7 @@ A pasos de Metro Simón Bolivar
 - tmayr
 - halles
 - hvergara
+- Estel
 
 ## To-do
 
