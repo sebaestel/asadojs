@@ -17,6 +17,8 @@ A pasos de Metro Simón Bolivar
 - halles
 - hvergara
 - Estel
+- Erika
+- Javier
 
 ## To-do
 
