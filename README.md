@@ -12,6 +12,11 @@ $5.000 + Bring your own Booze
 
 A pasos de Metro Simón Bolivar
 
+### Who's in?
+- tmayr
+- halles
+- hvergara
+
 ## To-do
 
 + Lista de Compras
