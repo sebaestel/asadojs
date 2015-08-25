@@ -10,7 +10,11 @@ $5.000 + Bring your own Booze
 
 ### Where
 
-A pasos de Metro Simón Bolivar
+A pasos de Metro Simón Bolivar, pedir direccion a @halles
+
+### $$$$$$
+
+Pedir cuenta por interno a @tmayr
 
 ### Who's in?
 - eseceve (alérgico al cerdo)
