@@ -1,4 +1,4 @@
-# AsadoJS hashtagchile
+# Asado hashtagchile
 
 ### When
 
@@ -13,16 +13,19 @@ $5.000 + Bring your own Booze
 A pasos de Metro Simón Bolivar
 
 ### Who's in?
-- tmayr
+- eseceve (alérgico al cerdo)
+- estel
 - halles
 - hvergara
-- Estel
 - Javier
 - kyuumeitai
+- tmayr
 
 ### Vegans? (People that took the wrong path in life)
 - Erika
 
-## To-do
-
-+ Lista de Compras
+### Lista de compras
+- Carne
+- Pan
+- Chorizos y vienesas
+- Ingredientes para el pebre
