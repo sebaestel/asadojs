@@ -33,3 +33,5 @@ Pedir cuenta por interno a @tmayr
 - Pan
 - Chorizos y vienesas
 - Ingredientes para el pebre
+- Morron rojo
+- Galletitas saladas
