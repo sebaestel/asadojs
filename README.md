@@ -35,3 +35,4 @@ Pedir cuenta por interno a @tmayr
 - Ingredientes para el pebre
 - Morron rojo
 - Galletitas saladas
+- Salsa barbecue
