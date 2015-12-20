@@ -2,7 +2,7 @@
 
 ### When
 
-Viernes 28, 21:00
+Viernes 12 de Septiembre, 21:00
 
 ### Cost
 
